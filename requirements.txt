@@ -1,0 +1,9 @@
+pytest
+playwright
+pytest-xdist
+allure-pytest
+pytest-html
+pytest-rerunfailures
+openpyxl
+faker
+python-slugify
